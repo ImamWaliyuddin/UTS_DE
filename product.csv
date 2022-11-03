@@ -1,0 +1,41 @@
+product_id,name,price,rating,brand,stock,category
+1,iPhone 9,549,4.69,Apple,94,smartphones
+2,Samsung Universe 9,1249,4.09,Samsung,36,smartphones
+3,MacBook Pro,1749,4.57,APPle,83,laptops
+4,Infinix INBOOK,1099,4.54,Infinix,96,laptops
+5,perfume Oil,13,4.26,Impression of Acqua Di Gio,65,fragrances
+6,Eau De Perfume Spray,30,4.7,Lord - Al-Rehab,105,fragrances
+7,Hyaluronic Acid Serum,19,4.83,L'Oreal Paris,110,skincare
+8,Skin Beauty Serum.,46,4.42,ROREC White Rice,54,skincare
+9,Orange Essence Food Flavou,14,4.85,Baking Food Items,26,groceries
+10,cereals muesli fruit nuts,46,4.94,fauji,113,groceries
+11,3D Embellishment Art Lamp,20,4.82,LED Lights,54,home-decoration
+12,Key Holder,30,4.92,Golden,54,home-decoration
+13,Mornadi Velvet Bed,40,4.16,Furniture Bed Set,140,furniture
+14,Plastic Table,50,4.01,Multi Purpose,136,furniture
+15,Sleeve Shirt Womens,90,4.26,Professional Wear,39,tops
+16,Women Sweaters Wool,600,4.55,Top Sweater,55,tops
+17,frock gold printed,600,4.31,Ghazi Fabric,150,womens-dresses
+18,Ladies Multicolored Dress,79,4.03,Ghazi Fabric,2,womens-dresses
+19,Women Strip Heel,40,4.02,Sandals Flip Flops,25,womens-shoes
+20,Women Shoes,36,4.33,Arrivals Genuine,46,womens-shoes
+21,Pubg Printed Graphic T-Shirt,46,4.62,The Warehouse,136,mens-shirts
+22,Money Heist Printed Summer T Shirts,66,4.9,The Warehouse,122,mens-shirts
+23,Sneakers Joggers Shoes,40,4.38,Sneakers,6,mens-shoes
+24,Stylish Casual Jeans Shoes,58,4.55,Sneakers,129,mens-shoes
+25,Royal Blue Premium Watch,50,4.89,SKMEI 9117,142,mens-watches
+26,Stainless Steel Wrist Watch,47,4.79,Stainless,94,mens-watches
+27,Stylish Luxury Digital Watch,57,4.55,Luxury Digital,77,womens-watches
+28,Stainless Steel Women,35,4.08,Bracelet,111,womens-watches
+29,Women Shoulder Bags,46,4.71,LouisWill,17,womens-bags
+30,Handbag For Girls,23,4.91,LouisWill,27,womens-bags
+31,Silver Ring Set Women,70,4.61,Darojay,51,womens-jewellery
+32,Chain Pin Tassel Earrings,45,4.59,Cuff Butterfly,9,womens-jewellery
+33,Round Silver Frame Sun Glasses,19,4.94,Designer Sun Glasses,78,sunglasses
+34,Kabir Singh Square Sunglass,50,4.62,Designer Sun Glasses,78,sunglasses
+35,Bluetooth Aux,25,4.57,Car Aux,22,automotive
+36,Cycle Bike Glow,35,4.1,Neon LED Light,63,automotive
+37,Automatic Motor Gas Motorcycles,1050,4.84,shock absorber,127,motorcycle
+38,Wholesale cargo lashing Belt,930,4.21,Xiangle,144,motorcycle
+39,Metal Ceramic Flower,35,4.93,Ifei Home,146,lighting
+40,American Vintage Wood Pendant Light,46,4.32,Ifei Home,138,lighting

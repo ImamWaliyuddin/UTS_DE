@@ -1,0 +1,101 @@
+id,title,price,brand,stock,category
+1,iPhone 9,549,Apple,94,smartphones
+2,iPhone X,899,Apple,34,smartphones
+3,Samsung Universe 9,1249,Samsung,36,smartphones
+4,OPPOF19,280,OPPO,123,smartphones
+5,Huawei P30,499,Huawei,32,smartphones
+6,MacBook Pro,1749,APPle,83,laptops
+7,Samsung Galaxy Book,1499,Samsung,50,laptops
+8,Microsoft Surface Laptop 4,1499,Microsoft Surface,68,laptops
+9,Infinix INBOOK,1099,Infinix,96,laptops
+10,HP Pavilion 15-DK1056WM,1099,HP Pavilion,89,laptops
+11,perfume Oil,13,Impression of Acqua Di Gio,65,fragrances
+12,Brown Perfume,40,Royal_Mirage,52,fragrances
+13,Fog Scent Xpressio Perfume,13,Fog Scent Xpressio,61,fragrances
+14,Non-Alcoholic Concentrated Perfume Oil,120,Al Munakh,114,fragrances
+15,Eau De Perfume Spray,30,Lord - Al-Rehab,105,fragrances
+16,Hyaluronic Acid Serum,19,L'Oreal Paris,110,skincare
+17,Tree Oil 30ml,12,Hemani Tea,78,skincare
+18,Oil Free Moisturizer 100ml,40,Dermive,88,skincare
+19,Skin Beauty Serum.,46,ROREC White Rice,54,skincare
+20,Freckle Treatment Cream- 15gm,70,Fair & Clear,140,skincare
+21,- Daal Masoor 500 grams,20,Saaf & Khaas,133,groceries
+22,Elbow Macaroni - 400 gm,14,Bake Parlor Big,146,groceries
+23,Orange Essence Food Flavou,14,Baking Food Items,26,groceries
+24,cereals muesli fruit nuts,46,fauji,113,groceries
+25,Gulab Powder 50 Gram,70,Dry Rose,47,groceries
+26,Plant Hanger For Home,41,Boho Decor,131,home-decoration
+27,Flying Wooden Bird,51,Flying Wooden,17,home-decoration
+28,3D Embellishment Art Lamp,20,LED Lights,54,home-decoration
+29,Handcraft Chinese style,60,luxury palace,7,home-decoration
+30,Key Holder,30,Golden,54,home-decoration
+31,Mornadi Velvet Bed,40,Furniture Bed Set,140,furniture
+32,Sofa for Coffe Cafe,50,Ratttan Outdoor,30,furniture
+33,3 Tier Corner Shelves,700,Kitchen Shelf,106,furniture
+34,Plastic Table,50,Multi Purpose,136,furniture
+35,3 DOOR PORTABLE,41,AmnaMart,68,furniture
+36,Sleeve Shirt Womens,90,Professional Wear,39,tops
+37,ank Tops for Womens/Girls,50,Soft Cotton,107,tops
+38,sublimation plain kids tank,100,Soft Cotton,20,tops
+39,Women Sweaters Wool,600,Top Sweater,55,tops
+40,women winter clothes,57,Top Sweater,84,tops
+41,NIGHT SUIT,55,RED MICKY MOUSE..,21,womens-dresses
+42,Stiched Kurta plus trouser,80,Digital Printed,148,womens-dresses
+43,frock gold printed,600,Ghazi Fabric,150,womens-dresses
+44,Ladies Multicolored Dress,79,Ghazi Fabric,2,womens-dresses
+45,Malai Maxi Dress,50,IELGY,96,womens-dresses
+46,women's shoes,40,IELGY fashion,72,womens-shoes
+47,Sneaker shoes,120,Synthetic Leather,50,womens-shoes
+48,Women Strip Heel,40,Sandals Flip Flops,25,womens-shoes
+49,Chappals & Shoe Ladies Metallic,23,Maasai Sandals,107,womens-shoes
+50,Women Shoes,36,Arrivals Genuine,46,womens-shoes
+51,half sleeves T shirts,23,Vintage Apparel,132,mens-shirts
+52,FREE FIRE T Shirt,10,FREE FIRE,128,mens-shirts
+53,printed high quality T shirts,35,Vintage Apparel,6,mens-shirts
+54,Pubg Printed Graphic T-Shirt,46,The Warehouse,136,mens-shirts
+55,Money Heist Printed Summer T Shirts,66,The Warehouse,122,mens-shirts
+56,Sneakers Joggers Shoes,40,Sneakers,6,mens-shoes
+57,Loafers for men,47,Rubber,20,mens-shoes
+58,formal offices shoes,57,The Warehouse,68,mens-shoes
+59,Spring and summershoes,20,Sneakers,137,mens-shoes
+60,Stylish Casual Jeans Shoes,58,Sneakers,129,mens-shoes
+61,Leather Straps Wristwatch,120,Naviforce,91,mens-watches
+62,Waterproof Leather Brand Watch,46,SKMEI 9117,95,mens-watches
+63,Royal Blue Premium Watch,50,SKMEI 9117,142,mens-watches
+64,Leather Strap Skeleton Watch,46,Strap Skeleton,61,mens-watches
+65,Stainless Steel Wrist Watch,47,Stainless,94,mens-watches
+66,Steel Analog Couple Watches,35,Eastern Watches,24,womens-watches
+67,Fashion Magnetic Wrist Watch,60,Eastern Watches,46,womens-watches
+68,Stylish Luxury Digital Watch,57,Luxury Digital,77,womens-watches
+69,Golden Watch Pearls Bracelet Watch,47,Watch Pearls,89,womens-watches
+70,Stainless Steel Women,35,Bracelet,111,womens-watches
+71,Women Shoulder Bags,46,LouisWill,17,womens-bags
+72,Handbag For Girls,23,LouisWill,27,womens-bags
+73,Fancy hand clutch,44,Bracelet,101,womens-bags
+74,Leather Hand Bag,57,Copenhagen Luxe,43,womens-bags
+75,Seven Pocket Women Bag,68,Steal Frame,13,womens-bags
+76,Silver Ring Set Women,70,Darojay,51,womens-jewellery
+77,Rose Ring,100,Copenhagen Luxe,149,womens-jewellery
+78,Rhinestone Korean Style Open Rings,30,Fashion Jewellery,9,womens-jewellery
+79,Elegant Female Pearl Earrings,30,Fashion Jewellery,16,womens-jewellery
+80,Chain Pin Tassel Earrings,45,Cuff Butterfly,9,womens-jewellery
+81,Round Silver Frame Sun Glasses,19,Designer Sun Glasses,78,sunglasses
+82,Kabir Singh Square Sunglass,50,Designer Sun Glasses,78,sunglasses
+83,Wiley X Night Vision Yellow Glasses,30,mastar watch,115,sunglasses
+84,Square Sunglasses,28,mastar watch,64,sunglasses
+85,LouisWill Men Sunglasses,50,LouisWill,92,sunglasses
+86,Bluetooth Aux,25,Car Aux,22,automotive
+87,t Temperature Controller Incubator Controller,40,W1209 DC12V,37,automotive
+88,TC Reusable Silicone Magic Washing Gloves,29,TC Reusable,42,automotive
+89,Qualcomm original Car Charger,40,TC Reusable,79,automotive
+90,Cycle Bike Glow,35,Neon LED Light,63,automotive
+91,Black Motorbike,569,METRO 70cc Motorcycle - MR70,115,motorcycle
+92,HOT SALE IN EUROPE electric racing motorcycle,920,BRAVE BULL,22,motorcycle
+93,Automatic Motor Gas Motorcycles,1050,shock absorber,127,motorcycle
+94,new arrivals Fashion motocross goggles,900,JIEPOLLY,109,motorcycle
+95,Wholesale cargo lashing Belt,930,Xiangle,144,motorcycle
+96,lighting ceiling kitchen,30,lightingbrilliance,96,lighting
+97,Metal Ceramic Flower,35,Ifei Home,146,lighting
+98,3 lights lndenpant kitchen islang,34,DADAWU,44,lighting
+99,American Vintage Wood Pendant Light,46,Ifei Home,138,lighting
+100,Crystal chandelier maria theresa for 12 light,47,YIOSI,133,lighting
